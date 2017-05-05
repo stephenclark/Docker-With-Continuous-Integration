@@ -1,6 +1,6 @@
 
 // Sample node.js web app for bTreePress How-To-Use-Docker-With-Continous-Integration-To-Build-A-DevOps-Automated-Workflow
- // For demonstration purposes only // test comment
+ // For demonstration purposes only // ok, got your comment
  'use strict';
   
  var express = require('express'),
